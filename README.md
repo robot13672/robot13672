@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying at 42 Wolfsburg.<br><br>🌱 I’m currently learning Node.js and WebSockets.
+🔭 Graduate of 42 Wolfsburg, passionate about building scalable applications  
+🌱 Currently diving into Node.js 
 
 
 ## 🌐 Socials:
